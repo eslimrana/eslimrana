@@ -1,4 +1,4 @@
-### Hi there 👋
+### A freshman at Bilkent University Computer Science Department 👋
 
 <!--
 **eslimrana/eslimrana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
