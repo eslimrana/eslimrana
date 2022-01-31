@@ -1,4 +1,4 @@
-### Hello everyone my name is Eslim Rana Emiroglu, i am a freshman at Bilkent University Computer Science Department 👋
+### Hello everyone my name is Eslim Rana Emiroğlu, I am a freshman at Bilkent University Computer Science Department 👋
 - 🔭 I’m currently a freshman at Bilkent University.
 - 👩🏻‍💻 I’m currently learning JavaScript.
 - 📕 I’m a beginner in HTML, CSS, and Java.
